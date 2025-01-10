@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "documentation": "https://www.home-assistant.io/components/ups",
     "requirements": [
-      "upsmychoice==1.0.6"
+      "upsmychoice==1.0.7"
     ],
     "dependencies": [],
     "codeowners": []
